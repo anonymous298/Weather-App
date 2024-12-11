@@ -4,7 +4,7 @@ A simple yet powerful web application that fetches and displays real-time weathe
 
 ---
 
-Demo
+## Demo
 
 ![weather1](https://github.com/user-attachments/assets/c5b9de71-0cdf-461c-83cb-bcda3b05a885)
 
