@@ -47,50 +47,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-
-Here’s a clean and professional README file format for your weather app:
-
-🌦️ Weather Forecasting Web Application
-A simple yet powerful web application that fetches and displays real-time weather data using the OpenWeather API.
-
-Features
-🌍 View current weather for any location worldwide.
-🌡️ Displays temperature, weather conditions, and more.
-🕒 Real-time updates with user-friendly interface.
-🚀 Lightweight and easy to use.
-Demo
-Add a screenshot or link to your live app here.
-Example:
-
-Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Python (Flask/Django if applicable)
-API: OpenWeather API
-Setup Instructions
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/weather-app.git  
-cd weather-app  
-Install Dependencies:
-If applicable, mention the dependencies and installation commands, e.g.:
-
-bash
-Copy code
-pip install -r requirements.txt  
-Add API Key:
-
-Get your API key from OpenWeather.
-Replace your_api_key_here in the code with your actual API key.
-Run the Application:
-
-bash
-Copy code
-python app.py  
-or if it’s a static app:
-Open index.html in your browser.
-
 ## Usage
 
 1. Enter the name of the city in the search bar.
